@@ -4,5 +4,17 @@ When running the app the user will be shown a menu that they may select 4 option
 
 ![Company Main Menu](claimsmenu.jpg)
 
+## See all claims
+
+
+## Take care of next claim
+
+
+## Enter a new claim
+
+
+## Exit
+By selecting 4, you will exit this instance of the console.
+
 ---
 [Back to home](../README.md)
